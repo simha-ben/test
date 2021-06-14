@@ -1,0 +1,11 @@
+h1,div {
+  text-align: center;
+}
+input{
+  text-align: center;
+}
+.cen{
+  margin: 0 auto;
+  float: none;
+}
+

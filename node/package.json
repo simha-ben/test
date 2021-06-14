@@ -1,0 +1,41 @@
+{
+  "name": "total_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "anymatch": "^3.1.1",
+    "clone-response": "^1.0.2",
+    "cors": "^2.8.5",
+    "decompress-response": "^3.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "make-dir": "^3.1.0",
+    "mimic-response": "^1.0.1",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.11.16",
+    "moongoose": "0.0.5",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "nopt": "^1.0.10",
+    "normalize-path": "^3.0.0",
+    "normalize-url": "^4.5.0",
+    "p-cancelable": "^1.1.0",
+    "picomatch": "^2.2.2",
+    "prepend-http": "^2.0.0",
+    "pupa": "^2.1.1",
+    "react-redux": "^7.2.4",
+    "readdirp": "^3.5.0",
+    "request": "^2.88.2",
+    "responselike": "^1.0.2",
+    "semver-diff": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
